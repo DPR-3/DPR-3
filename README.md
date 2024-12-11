@@ -18,7 +18,7 @@
 <br>
 
 - A passionate Data Science
-- Personal website [link](www.linkedin.com/in/david-prieto-razola-b8383121b)
+- ML-AI
 - I am looking for a job opportunity
 
 <br><br>
