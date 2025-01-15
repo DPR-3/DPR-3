@@ -19,7 +19,9 @@
 
 - A passionate Data Science
 - ML-AI
+- Deep Learning
 - I am looking for a job opportunity
+  
 
 <br><br>
 
